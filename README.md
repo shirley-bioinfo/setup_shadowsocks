@@ -1,2 +1,2 @@
 # shadowsocks
-Files needed to set up shadowsocks for VPN.
+Files needed for setting up shadowsocks.
